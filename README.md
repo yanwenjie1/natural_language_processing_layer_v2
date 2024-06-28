@@ -54,7 +54,7 @@
     <td style="text-align:center">8</td>
     <td style="text-align:center">1.3G</td>
     <td style="text-align:center">-</td>
-    <td style="text-align:center">20000行/S</td>
+    <td style="text-align:center">25000行/S</td>
   </tr>
 </table>
 
