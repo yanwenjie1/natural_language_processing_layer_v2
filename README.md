@@ -67,6 +67,7 @@ conda activate yourname / source activate yourname
 conda install pytorch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 pytorch-cuda=11.8 -c pytorch -c nvidia
 pip install transformers==4.40.0 -i https://pypi.tuna.tsinghua.edu.cn/simple --no-cache-dir
 pip install onnxruntime-gpu==1.17.1 -i https://pypi.tuna.tsinghua.edu.cn/simple --no-cache-dir
+pip install numpy==1.26.4 -i https://pypi.tuna.tsinghua.edu.cn/simple --no-cache-dir
 pip install rich==12.5.1
 pip install flask
 pip install gevent
